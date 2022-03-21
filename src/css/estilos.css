@@ -1,0 +1,46 @@
+img{
+    
+}
+.deya {
+    width: 170px;
+}
+
+.titulo {
+    color: rgb(51, 3, 94);
+}
+.fondo_azul {
+    background-image: url("../img/fondo_intro.jpg");
+}
+
+.flexc {
+    display: flex;
+    justify-content: right;
+}
+
+.caja1 {
+    display: flex; 
+    gap: 80px;
+    justify-content: space-between;
+
+}
+
+.caja2 {
+    display: flex;
+    gap: 80px;
+    justify-content: space-between;
+    
+    }
+
+.width50 {
+    width: 50%;
+}
+
+.block {
+    display: block; 
+    margin-top: 30px;
+}
+
+.enlinea {
+    display: inline-block; 
+    margin-top: 30px;
+}
